@@ -39,3 +39,7 @@ Na base analisada, aproximadamente **57% dos clientes haviam cancelado o serviç
 Após a filtragem realizada no exercício, a taxa observada de cancelamento foi de aproximadamente **18%**.
 
 > Projeto desenvolvido para praticar Python e Análise de Dados.
+
+# Autor
+
+Miguel Ferreira
