@@ -1,4 +1,4 @@
-# 📊 Análise de Cancelamento de Clientes
+# Análise de Cancelamento de Clientes
 
 Projeto de estudo de **Análise de Dados com Python**, utilizando uma base com mais de 50 mil clientes.
 
