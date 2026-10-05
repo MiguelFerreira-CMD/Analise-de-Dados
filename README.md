@@ -27,19 +27,15 @@ Projeto de estudo de **Análise de Dados com Python**, utilizando uma base com m
 - Plotly
 - Jupyter Notebook
 
-## Arquivos
-
-- `inicial.ipynb` → notebook com toda a análise.
-- `cancelamentos.csv` → base de dados utilizada no exercício.
-
 ## Resultado inicial
 
 Na base analisada, aproximadamente **57% dos clientes haviam cancelado o serviço**.
 
 Após a filtragem realizada no exercício, a taxa observada de cancelamento foi de aproximadamente **18%**.
 
-> Projeto desenvolvido para praticar Python e Análise de Dados.
-
-# Autor
-
-Miguel Ferreira
+## Estrutura do projeto 📁
+```text
+  Cancelamentos/
+│
+├── inicial.ipynb       # notebook com toda a análise.
+├── cancelamentos.csv     # base de dados utilizada no exercício.
