@@ -35,7 +35,7 @@ Após a filtragem realizada no exercício, a taxa observada de cancelamento foi 
 
 ## Estrutura do projeto 📁
 ```text
-  Cancelamentos/
+  Analise_de_Dados/
 │
 ├── inicial.ipynb       # notebook com toda a análise.
 ├── cancelamentos.csv     # base de dados utilizada no exercício.
