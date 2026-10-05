@@ -39,3 +39,4 @@ Após a filtragem realizada no exercício, a taxa observada de cancelamento foi 
 │
 ├── inicial.ipynb       # notebook com toda a análise.
 ├── cancelamentos.csv     # base de dados utilizada no exercício.
+└── README.md       # Documentação do projeto
